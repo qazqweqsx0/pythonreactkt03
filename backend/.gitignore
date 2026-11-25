@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/originals/*
+uploads/thumbnails/*
+!uploads/originals/.gitkeep
+!uploads/thumbnails/.gitkeep
